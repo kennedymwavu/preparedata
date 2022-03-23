@@ -4,6 +4,8 @@
 # preparedata
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/kennedymwavu/preparedata/workflows/R-CMD-check/badge.svg)](https://github.com/kennedymwavu/preparedata/actions)
 <!-- badges: end -->
 
 Functions to make data preparation easier. Preparing data entails
