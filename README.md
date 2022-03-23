@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/kennedymwavu/preparedata/workflows/R-CMD-check/badge.svg)](https://github.com/kennedymwavu/preparedata/actions)
+[![Codecov test
+coverage](https://codecov.io/gh/kennedymwavu/preparedata/branch/master/graph/badge.svg)](https://app.codecov.io/gh/kennedymwavu/preparedata?branch=master)
 <!-- badges: end -->
 
 Functions to make data preparation easier. Preparing data entails
